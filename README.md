@@ -1,2 +1,3 @@
-# homepage
-My very own personal website. Basically this is just a résumé.
+# Personal page
+Just a little page with some info 'bout me :3
+(u can call that 「rrrésumé」)
