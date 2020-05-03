@@ -5,3 +5,7 @@ main {
 .avatar {
     width: 15vw;
 }
+
+::selection {
+    background: #B75882;
+}
